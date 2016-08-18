@@ -1,0 +1,17 @@
+{
+    "name": "clickerscript-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Astigmatic"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/clickerscript-bower.git"
+    },
+    "description": "Clicker Script font",
+    "keywords": [
+        "font",
+        "HANDWRITING"
+    ]
+}
